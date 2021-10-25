@@ -1,3 +1,8 @@
+tmp/
+docs/tiles/
+
+.DS_Store
+
 # Logs
 logs
 *.log
